@@ -128,7 +128,7 @@ h1, h2, h3, p { margin-top: 0; }
 .gallery-item--large .gallery-caption { font-size: 16px; }
 
 .closing-panels { display: grid; grid-template-columns: 1fr 1fr; min-height: 335px; border-top: 8px solid #f8efe3; border-bottom: 8px solid #f8efe3; }
-.countdown-panel { min-height: 335px; display: grid; place-items: center; padding: 38px; color: white; background: linear-gradient(135deg, rgba(19,35,55,.92), rgba(31,47,64,.85)), url("/manus-storage/async-images/et9Dzfw7oQQT98WmtPRPrN/image-4.webp") center 52%/cover; }
+.countdown-panel { min-height: 335px; display: grid; place-items: center; padding: 38px; color: white; background: linear-gradient(135deg, rgba(19,35,55,.92), rgba(31,47,64,.85)), url("/images/gallery-campus.webp") center 52%/cover; }
 .countdown-frame { width: min(100%, 560px); padding: 22px 24px 15px; border: 1px solid rgba(234,207,146,.28); text-align: center; }
 .countdown-cap { width: 41px; height: 30px; color: var(--gold-bright); }
 .script-label, .countdown-foot { margin: 0; color: #f3dfaa; font-family: var(--serif); font-size: 26px; font-style: italic; line-height: 1.3; }
