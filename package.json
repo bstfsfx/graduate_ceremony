@@ -1,0 +1,9 @@
+{
+  "name": "grad-gallery",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p .vercel/output && cp index.html styles.css script.js .vercel/output/ && cp -R images .vercel/output/images && cp -R public .vercel/output/public",
+    "vercel-build": "npm run build"
+  }
+}
